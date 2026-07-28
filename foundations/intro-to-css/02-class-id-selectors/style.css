@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p{
+    background-color: #fa8ea6;
+
+}
+    *{
+font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    }    
+    #first{
+        color: blue;
+        font-size: 36px;
+    }
+    .nice{
+        font-size: 24px;
+    }
+    #second{
+        font-size: 24px;
+        font-weight: bold;
+        background-color: #b9fa78;
+    }
